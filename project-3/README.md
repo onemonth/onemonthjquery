@@ -11,6 +11,5 @@ Comparison & Logic Operators: http://www.w3schools.com/js/js_comparisons.asp
 localStorage: http://www.w3schools.com/html/html5_webstorage.asp
 
 ## Challenge
-* Create a custom animation using `animate()`
-* Add a 4th question to the FAQ
-* Replace the text of one of the answers with an image or gif
+* Add an animation to the item removal
+* Add an easter egg, i.e. if the listItem === "dance" have a dance gif take over the screen
